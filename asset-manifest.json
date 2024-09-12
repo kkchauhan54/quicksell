@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quicksell/static/css/main.7c9f4f9e.css",
+    "main.js": "/quicksell/static/js/main.6697f57e.js",
+    "index.html": "/quicksell/index.html",
+    "main.7c9f4f9e.css.map": "/quicksell/static/css/main.7c9f4f9e.css.map",
+    "main.6697f57e.js.map": "/quicksell/static/js/main.6697f57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9f4f9e.css",
+    "static/js/main.6697f57e.js"
+  ]
+}
